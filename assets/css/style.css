@@ -130,11 +130,10 @@ aside h2 {
 
 .portfolioImage {
 	display: inline-block;
-	margin:	40px;	
+	margin:	20px;	
 	float: left;
 	width: 200px;
 	height: 200px;
-	text-align: center;
 }
 
 section h3{
